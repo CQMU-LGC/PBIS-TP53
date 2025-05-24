@@ -1,6 +1,7 @@
 # 🧬 PBIS-TP53: Pathway-Based Integrated Scoring for TP53
 This repository provides an R-based pipeline to compute the **PBIS-TP53** score, a transcriptional signature that quantifies the downstream impact of TP53 mutations using weighted ssGSEA.
 ---
+![PBIS-TP53 Overview](PBIS-TP53.png)
 ## 📦 Requirements
 This script requires the following R packages:
 - `GSVA`
